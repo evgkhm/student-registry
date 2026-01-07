@@ -3,7 +3,6 @@ backend/main
 backend/*.exe
 backend/*.so
 backend/*.dylib
-backend/go.sum
 
 # Frontend
 frontend/node_modules
